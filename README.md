@@ -1,4 +1,4 @@
-# AIIG-2023-Fall & 2024-Winter
+# AIIG-2023.9-Fall - 2024.1-Winter
 
 ## Google Drive
 Slides are available in this folder:
